@@ -6,7 +6,7 @@ Ce projet consiste à développer une application du jeu d’échecs chinois (Xi
 
 Le jeu est conçu autour d’une architecture séparant le moteur de jeu, la logique des règles et l’interface graphique interactive.
 
- Objectifs principaux
+ --Objectifs principaux
 
 Visualiser un plateau de jeu 11 × 11 cases incluant :
 
@@ -26,7 +26,7 @@ Joueur vs Bot
 
 Deux joueurs sur la même interface
 
- Pièces du jeu
+ --Pièces du jeu
 
 Le jeu contient 16 pièces par joueur :
 
@@ -46,7 +46,7 @@ Le jeu contient 16 pièces par joueur :
 
 Chaque pièce possède des règles de déplacement spécifiques.
 
- Règles principales
+ --Règles principales
 
 Impossible de laisser son Général en position capturable.
 
@@ -58,7 +58,7 @@ Les captures doivent suivre strictement les règles de déplacement.
 
 Les deux Généraux ne peuvent jamais être alignés sans pièce intermédiaire.
 
- Fonctionnalités de l’application
+ --Fonctionnalités de l’application
 
 Affichage graphique du plateau de jeu modifié
 
@@ -72,7 +72,7 @@ Mode deux joueurs avec orientation dynamique du plateau
 
 Gestion automatique des fins de partie
 
- Moteur de jeu
+ --Moteur de jeu
 
 Le moteur de jeu gère :
 
@@ -84,7 +84,7 @@ La détection d’échec
 
 La détection de fin de partie
 
- Auteurs
+ --Auteurs
 
 Ramdane Ketfi
 
